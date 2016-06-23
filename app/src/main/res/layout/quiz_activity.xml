@@ -3,11 +3,12 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <FrameLayout
+    <fragment
         android:layout_width="match_parent"
-        android:layout_height="459dp"
-        android:id="@+id/frame"
-        ></FrameLayout>
+        android:layout_height="match_parent"
+        class="com.summerdeveloper.rameshwar.quizzardo.QuizFragment"
+        android:id="@+id/fragment"
+        />
 
     <LinearLayout
         android:layout_width="match_parent"

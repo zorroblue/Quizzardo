@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:text="SUBMIT"
         android:visibility="invisible"
-        android:id="@+id/button2"
+        android:id="@+id/button"
         android:layout_marginTop="50dp"
         android:layout_gravity="center_horizontal"
         android:layout_weight="0.07" />
